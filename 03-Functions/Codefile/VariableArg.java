@@ -24,7 +24,7 @@ public class VariableArg {
     }
     static void varArg(int a,int b ,String ...s)//Pass arguments in correct order
     {
-        System.out.println(a + " " + b);
+        System.out.print(a + " " + b + " ");
         System.out.println(Arrays.toString(s));
     }
 }
