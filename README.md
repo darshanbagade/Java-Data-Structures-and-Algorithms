@@ -16,6 +16,5 @@ In the Assignments folder, you will find a collection of Leetcode problems that 
 
 ## Resources 📚
 
-- [Kunal Kushwaha's DSA Playlist](https://www.youtube.com/c/KunalKushwaha)
+- [Kunal Kushwaha's DSA Playlist](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
 - [Leetcode](https://leetcode.com/)
-- [Java Documentation](https://docs.oracle.com/javase/8/docs/)
