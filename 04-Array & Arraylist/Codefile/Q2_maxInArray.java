@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class maxInArray{
+public class Q2_maxInArray{
     public static void main(String[] args) {
         @SuppressWarnings("resource")
         Scanner sc =new  Scanner(System.in);
