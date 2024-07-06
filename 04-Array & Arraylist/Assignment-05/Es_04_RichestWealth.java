@@ -1,11 +1,13 @@
 import java.util.Arrays;
-public class Es_03_SumTill_Index {
+public class Es_04_RichestWealth {
         public static void main(String[] args) {
         int[][] arr = {
                         { 1,2,3},
-                        { 3,2,4}
+                        { 1,2,3}
                         };
-        System.out.println(Arrays.toString(arr));
+        for(int[] a : arr){
+            System.out.println(Arrays.toString(a));
+        }
         System.out.println(maximumWealth(arr));
     }
     static int maximumWealth(int[][] accounts) {
