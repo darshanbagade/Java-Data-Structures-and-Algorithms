@@ -27,8 +27,9 @@ public class arrayList {
             list.add(in.nextInt());
         }
 
+        list.add(0,99);
         //output
-        for(int i=0; i<5 ; i++){
+        for(int i=0; i<7 ; i++){
             System.out.print(list.get(i) + " ");//get element at index 3
         }
     }
