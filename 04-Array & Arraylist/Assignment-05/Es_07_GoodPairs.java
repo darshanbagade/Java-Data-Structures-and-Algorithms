@@ -1,4 +1,4 @@
-class Solution {
+class Es_07_GoodPairs {
     public int numIdenticalPairs(int[] nums){
         int count=0;
         //loop for last limit with which we are comparing element before the index less than j(limit)
