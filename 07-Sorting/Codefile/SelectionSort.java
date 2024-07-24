@@ -21,6 +21,7 @@ public class SelectionSort{
         int maxIn;
         for(int i=n; i>=0 ; i--){
             maxIn = maxIndex(arr, 0,i) ;
+            
             Swap(arr,maxIn,i);
         }
     }
