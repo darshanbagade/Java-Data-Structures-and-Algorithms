@@ -7,7 +7,7 @@ import java.util.Scanner;
 /*
  * public static void main()
  * public   ----> this code ccan be accessiible anywhere 
- * static  ----> static is used to call main() functuon of the class without creating the object 
+ * static  ----> static is used to call main() function of the class without creating the object 
  * void    ----> void means the function does not return anything 
  * main()  ----> main() is the entry point of the program , without main() code will not execute
  *  
@@ -21,7 +21,7 @@ public class FirstProgram {
         Scanner in = new Scanner(System.in);
         
         
-        /*  in.next();                   ---->     it use to take general (any dayatype) as as input
+        /* 
         *   in.next();                   ---->     it takes only first word of the string 
         *   in.nextLine() ;              ---->     it takes complete string as a input
         *   in.nextInt() ;               ---->     it takes Integer as a input
