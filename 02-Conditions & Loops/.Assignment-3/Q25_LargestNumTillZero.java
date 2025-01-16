@@ -1,7 +1,7 @@
 // 25. Take integer inputs till the user enters 0 and print the largest number from all.
 
 import java.util.Scanner;
-public class LargestNumTillZero_25 {
+public class Q25_LargestNumTillZero {
     public static void main(String[] args) {
 
         int num=1;

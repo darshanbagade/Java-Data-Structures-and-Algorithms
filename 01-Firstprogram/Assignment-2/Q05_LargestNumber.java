@@ -1,9 +1,7 @@
-import java.util.Scanner;
-
 //5.Take 2 numbers as input and print the largest number.
 
-
-public class LargestNumber{
+import java.util.Scanner;
+public class Q05_LargestNumber{
     public static void main(String[] args) {
         @SuppressWarnings("resource")
         Scanner in = new Scanner(System.in);

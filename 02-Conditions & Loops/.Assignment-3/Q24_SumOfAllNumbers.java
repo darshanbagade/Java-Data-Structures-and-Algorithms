@@ -1,7 +1,7 @@
 // 24. Take integer inputs till the user enters 0 and print the sum of all numbers
 
 import java.util.Scanner;
-public class SumOfAllNumbers_24 {
+public class Q24_SumOfAllNumbers {
     public static void main(String[] args) {
         @SuppressWarnings("resource")
         Scanner input = new Scanner(System.in);

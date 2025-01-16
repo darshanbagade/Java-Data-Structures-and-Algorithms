@@ -1,5 +1,5 @@
 // 22. Perfect Number - is equal to the total of its positive divisors except itself
-public class PerfectNumber_In22 {
+public class I22_PerfectNumber {
     public static void main(String[] args) {
         int num= 496;
         int sum= 0;

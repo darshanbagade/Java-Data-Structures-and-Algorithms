@@ -1,6 +1,6 @@
 // 15.Find Ncr and Npr
 import java.util.Scanner;
-public class FindNcrNpr_In15 {
+public class I15_FindNcrNpr {
     public static void main(String[] args) {
         @SuppressWarnings("resource")
         Scanner input = new Scanner(System.in);

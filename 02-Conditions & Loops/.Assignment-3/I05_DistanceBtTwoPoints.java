@@ -1,5 +1,5 @@
 // 5. Calculate Distance Between Two Points 
-public class DistanceBtTwoPoints_In5 {
+public class I05_DistanceBtTwoPoints {
     public static void main(String[] args) {
         int x1=6;
         int y1=20;

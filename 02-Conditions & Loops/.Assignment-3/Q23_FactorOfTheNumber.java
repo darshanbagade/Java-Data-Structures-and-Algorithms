@@ -1,6 +1,6 @@
 // 23. Input a number and print all the factors of that number (use loops).
 
-public class FactorOfTheNumber_23 {
+public class Q23_FactorOfTheNumber {
     public static void main(String[] args) {
         int num = 35 ;
 
